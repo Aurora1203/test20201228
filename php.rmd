@@ -2,3 +2,4 @@
 # repository
 
 library (ggplot2)
+library (raster)
